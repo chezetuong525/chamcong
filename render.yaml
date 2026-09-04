@@ -3,7 +3,7 @@
 
 services:
   - type: web
-    name: gym2-backend
+    name: chamcong-backend
     env: node
     plan: free
     branch: master
